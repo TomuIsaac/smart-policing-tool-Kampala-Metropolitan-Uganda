@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">362459333002-e7jsn9lgrq5oqcetk4dh5grg6kb35nn3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">362459333002</string>
+    <string name="google_api_key" translatable="false">AIzaSyAjC_AfKOv1hzPuMjI6f-FBfbw3umG_1Eo</string>
+    <string name="google_app_id" translatable="false">1:362459333002:android:c3a4008627443608c00873</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAjC_AfKOv1hzPuMjI6f-FBfbw3umG_1Eo</string>
+    <string name="google_storage_bucket" translatable="false">smartpolicing-a3ea3.appspot.com</string>
+    <string name="project_id" translatable="false">smartpolicing-a3ea3</string>
+</resources>

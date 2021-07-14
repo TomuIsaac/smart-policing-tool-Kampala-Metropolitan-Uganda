@@ -1,0 +1,2 @@
+com/thinkdevs/smartpolicing/BuildConfig.java
+ com.thinkdevs.smartpolicing.BuildConfig
