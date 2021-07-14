@@ -12,14 +12,14 @@ Police will be able to give support to reported cases from the community.
 
 <img src="/../master/screenshots/01.png?raw=true" width="300px" alt="Screenshot 1" />
 <img src="/../master/screenshots/02.png?raw=true" width="300px" alt="Screenshot 3" />
-<img src="/../master/screenshots/04.png?raw=true" width="300px" alt="Screenshot 3" />
+<img src="/../master/screenshots/03.png?raw=true" width="300px" alt="Screenshot 3" />
 
 
 
 ## License
 
 ```
-Copyright (C) 2021 Tomusang Isaac, Kayondo John,Simon Junju
+Copyright (C) 2021 Tomusang Isaac, Kayondo John,Simon peter Junju
 
 Licensed under the group 1 lubaga campus, Version 0.1 (the "License");
 you may not use this file except in compliance with the License.
