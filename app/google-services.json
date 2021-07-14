@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362459333002",
+    "firebase_url": "https://smartpolicing-a3ea3-default-rtdb.firebaseio.com",
+    "project_id": "smartpolicing-a3ea3",
+    "storage_bucket": "smartpolicing-a3ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362459333002:android:c3a4008627443608c00873",
+        "android_client_info": {
+          "package_name": "com.thinkdevs.smartpolicing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362459333002-e7jsn9lgrq5oqcetk4dh5grg6kb35nn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjC_AfKOv1hzPuMjI6f-FBfbw3umG_1Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362459333002-e7jsn9lgrq5oqcetk4dh5grg6kb35nn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
