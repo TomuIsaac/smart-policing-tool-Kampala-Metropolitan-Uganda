@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="people_names">
+        <item>Isaac Tomusang</item>
+        <item>Arnold  Kasirye</item>
+        <item>Kissule Michelle</item>
+        <item>Miller Wilson</item>
+    </string-array>
+
+    <integer-array name="people_images">
+    <item>@drawable/logo</item>
+    <item>@drawable/logo</item>
+    <item>@drawable/logo</item>
+    </integer-array>
+
+</resources>

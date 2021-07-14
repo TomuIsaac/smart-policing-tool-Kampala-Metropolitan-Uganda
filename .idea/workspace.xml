@@ -9,7 +9,111 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af42f701-f3e6-4603-9d8e-638a98a30dc3" name="Default Changelist" comment="adding project description with screen shot" />
+    <list default="true" id="af42f701-f3e6-4603-9d8e-638a98a30dc3" name="Default Changelist" comment="adding project description with screen shot">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/thinkdevs/smartpolicing/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/Apps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/DashboardFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/LoginFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/PostDataFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/ReportFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/SignupFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/adapter/AdapterListBasic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/model/PostData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/util/DataGenerator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/util/DataReader.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/util/Loaded.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/util/Tools.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/thinkdevs/smartpolicing/util/UserData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_comment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_offence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_police.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/backfround_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_offence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_police.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/backfround_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_offence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_police.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/backfround_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_offence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_police.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/backfround_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_offence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_police.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/backfround_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_purple_a400.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_people.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shape_circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/txt_area_dark_yellow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_post_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/post_comments.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/report_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/thinkdevs/smartpolicing/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,49 +273,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="adding project description with screen shot" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624438778618">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="555" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1624438778618" />
-    <state x="405" y="296" key="AndroidCreateResourceFileDialog" timestamp="1624450392452">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="405" y="296" key="AndroidCreateResourceFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1624450392452" />
-    <state x="639" y="319" key="AndroidCreateXmlResourceDialog" timestamp="1624447366321">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="639" y="319" key="AndroidCreateXmlResourceDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1624447366321" />
-    <state width="1562" height="235" key="GridCell.Tab.0.bottom" timestamp="1624451006486">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1562" height="235" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1624451006486" />
-    <state width="1562" height="235" key="GridCell.Tab.0.center" timestamp="1624451006485">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1562" height="235" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1624451006485" />
-    <state width="1562" height="235" key="GridCell.Tab.0.left" timestamp="1624451006485">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1562" height="235" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1624451006485" />
-    <state width="1562" height="235" key="GridCell.Tab.0.right" timestamp="1624451006485">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1562" height="235" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1624451006485" />
-    <state width="500" height="516" key="SwitcherDM" timestamp="1624451014056">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="500" height="516" key="SwitcherDM/0.25.1680.1025@0.25.1680.1025" timestamp="1624451014056" />
-    <state x="597" y="319" key="chooseDestDirectoryDialog" timestamp="1624449258808">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="597" y="319" key="chooseDestDirectoryDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1624449258808" />
-    <state x="542" y="339" key="refactoring.ChangeSignatureDialog" timestamp="1624447692961">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="542" y="339" key="refactoring.ChangeSignatureDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1624447692961" />
-    <state x="482" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1624450788405">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="482" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1624450788405" />
+    <state x="555" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" />
+    <state x="555" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.1025@0.25.1680.1025" />
+    <state x="405" y="296" key="AndroidCreateResourceFileDialog" />
+    <state x="405" y="296" key="AndroidCreateResourceFileDialog/0.25.1680.1025@0.25.1680.1025" />
+    <state x="639" y="319" key="AndroidCreateXmlResourceDialog" />
+    <state x="639" y="319" key="AndroidCreateXmlResourceDialog/0.25.1680.1025@0.25.1680.1025" />
+    <state width="1562" height="235" key="GridCell.Tab.0.bottom" />
+    <state width="1562" height="235" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" />
+    <state width="1562" height="235" key="GridCell.Tab.0.center" />
+    <state width="1562" height="235" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" />
+    <state width="1562" height="235" key="GridCell.Tab.0.left" />
+    <state width="1562" height="235" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" />
+    <state width="1562" height="235" key="GridCell.Tab.0.right" />
+    <state width="1562" height="235" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" />
+    <state width="500" height="516" key="SwitcherDM" />
+    <state width="500" height="516" key="SwitcherDM/0.25.1680.1025@0.25.1680.1025" />
+    <state x="597" y="319" key="chooseDestDirectoryDialog" />
+    <state x="597" y="319" key="chooseDestDirectoryDialog/0.25.1680.1025@0.25.1680.1025" />
+    <state x="542" y="339" key="refactoring.ChangeSignatureDialog" />
+    <state x="542" y="339" key="refactoring.ChangeSignatureDialog/0.25.1680.1025@0.25.1680.1025" />
+    <state x="482" y="252" width="670" height="676" key="search.everywhere.popup" />
+    <state x="482" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" />
   </component>
 </project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.thinkdevs.smartpolicing.LoginFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_login">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/SecondFragment"
+        android:name="com.thinkdevs.smartpolicing.DashboardFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_dashboard">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signupFragment"
+        android:name="com.thinkdevs.smartpolicing.SignupFragment"
+        android:label="SignupFragment"
+        tools:layout="@layout/fragment_signup">
+    </fragment>
+    <fragment
+        android:id="@+id/postDataFragment"
+        android:name="com.thinkdevs.smartpolicing.PostDataFragment"
+        android:label="PostDataFragment"
+        tools:layout="@layout/fragment_post_data"/>
+    <fragment
+        android:id="@+id/reportFragment"
+        android:name="com.thinkdevs.smartpolicing.ReportFragment"
+        android:label="ReportFragment"
+        tools:layout="@layout/fragment_report"/>
+</navigation>
