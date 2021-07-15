@@ -19,7 +19,7 @@ Police will be able to give support to reported cases from the community.
 ## License
 
 ```
-Copyright (C) 2021 Tomusang Isaac, Kayondo John,Simon peter Junju
+Copyright (C) 2021 Tomusange Isaac, Kayondo John,Simon peter Junju
 
 Licensed under the group 1 lubaga campus, Version 0.1 (the "License");
 you may not use this file except in compliance with the License.

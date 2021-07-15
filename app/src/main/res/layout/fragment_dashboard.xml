@@ -42,6 +42,8 @@
                 android:layout_height="@dimen/spacing_large" />
 
             <LinearLayout
+                android:id="@+id/top_main"
+                android:visibility="visible"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
@@ -98,7 +100,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="92776"
+                                android:text="Depart"
                                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
                                 android:textColor="@color/grey_60"
                                 android:textStyle="bold" />
@@ -106,7 +108,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Viewer"
+                                android:text="Coming"
                                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Caption"
                                 android:textColor="@color/grey_40" />
 
@@ -197,6 +199,7 @@
                 android:layout_height="@dimen/spacing_middle" />
 
             <LinearLayout
+                android:id="@+id/linear2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
@@ -204,6 +207,7 @@
                 android:paddingRight="@dimen/spacing_middle">
 
                 <androidx.cardview.widget.CardView
+                    android:id="@+id/car_two"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="@dimen/spacing_xsmall"
@@ -254,7 +258,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="0dp"
                                 android:layout_weight="1"
-                                android:text="4000+"
+                                android:text="Leader"
                                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
                                 android:textColor="@color/grey_60"
                                 android:textStyle="bold" />
@@ -262,7 +266,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Products"
+                                android:text="Coming"
                                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Caption"
                                 android:textColor="@color/grey_40" />
 
@@ -300,7 +304,7 @@
                             android:layout_height="40dp">
 
                             <ImageView
-                                android:layout_width="match_parent"
+                                android:layout_width="38dp"
                                 android:layout_height="match_parent"
                                 android:layout_centerInParent="true"
                                 android:tint="@color/colorAccent"

@@ -5,7 +5,7 @@
     "kind": "Directory"
   },
   "applicationId": "com.thinkdevs.smartpolicing",
-  "variantName": "processDebugResources",
+  "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",

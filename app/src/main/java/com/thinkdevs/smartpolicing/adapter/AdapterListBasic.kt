@@ -27,13 +27,18 @@ class AdapterListBasic(context: Context, items: List<PostData>) :
     }
 
     inner class OriginalViewHolder(v: View) : RecyclerView.ViewHolder(v) {
-        var image: ImageView = v.findViewById<View>(R.id.image) as ImageView
         var name: TextView
-        var lyt_parent: View
+        var phone: TextView
+        var message: TextView
+        var title: TextView
+//        var lyt_parent: View
 
         init {
             name = v.findViewById<View>(R.id.name) as TextView
-            lyt_parent = v.findViewById(R.id.lyt_parent) as View
+            phone = v.findViewById<View>(R.id.phone_number) as TextView
+            message = v.findViewById<View>(R.id.message) as TextView
+//            lyt_parent = v.findViewById(R.id.lyt_parent) as View
+            title = v.findViewById(R.id.icon_text) as TextView
         }
     }
 
@@ -48,14 +53,12 @@ class AdapterListBasic(context: Context, items: List<PostData>) :
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
         if (holder is OriginalViewHolder) {
             val view = holder
-            val (name, _, email) = items[position]
-            view.name.text = name
-            displayImageRound(ctx, view.image, email)
-            view.lyt_parent.setOnClickListener { view ->
-                if (mOnItemClickListener != null) {
-                    mOnItemClickListener!!.onItemClick(view, items[position], position)
-                }
-            }
+           view.phone.text = items[position].phone
+           view.name.text = items[position].name
+           view.message.text = items[position].message
+
+            view.title.text = items[position].name!!.substring(0,1).toUpperCase()
+//
         }
     }
 

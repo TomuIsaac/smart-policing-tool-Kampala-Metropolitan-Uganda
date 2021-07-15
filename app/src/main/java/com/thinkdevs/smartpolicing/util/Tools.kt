@@ -33,9 +33,9 @@ fun getPeopleData(ctx: Context): MutableList<PostData> {
     val name_arr = ctx.resources.getStringArray(R.array.people_names)
     for (i in 0 until drw_arr.length()) {
         val obj = PostData()
-        obj.email = drw_arr.getResourceId(i, -1).toString()
+//        obj.email = drw_arr.getResourceId(i, -1).toString()
         obj.name = name_arr[i]
-        obj.email =obj.name
+        obj.phone =obj.name
 //        obj.imageDrw = ctx.resources.getDrawable(obj.image)
 
         items.add(obj)

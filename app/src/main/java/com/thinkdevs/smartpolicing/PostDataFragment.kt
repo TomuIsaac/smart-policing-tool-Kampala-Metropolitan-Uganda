@@ -1,5 +1,6 @@
 package com.thinkdevs.smartpolicing
 
+import android.graphics.Color
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
@@ -9,6 +10,7 @@ import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.widget.AppCompatEditText
 import androidx.fragment.app.Fragment
+import cn.pedant.SweetAlert.SweetAlertDialog
 import com.google.android.gms.tasks.OnSuccessListener
 import com.google.firebase.database.*
 import com.thinkdevs.smartpolicing.model.PostData
@@ -17,7 +19,9 @@ import com.thinkdevs.smartpolicing.model.PostData
 class PostDataFragment : Fragment() {
     private var mDatabaseReference: DatabaseReference? = null
     private var mFirebaseInstance: FirebaseDatabase? = null
-
+    lateinit var name:AppCompatEditText
+    lateinit var phone:AppCompatEditText
+    lateinit var message:AppCompatEditText
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -25,10 +29,10 @@ class PostDataFragment : Fragment() {
     ): View? {
         val view = inflater.inflate(R.layout.fragment_post_data, container, false)
 
-        var name = view.findViewById<AppCompatEditText>(R.id.txt_input_name)
+         name = view.findViewById(R.id.txt_input_name)
         var email = view.findViewById<AppCompatEditText>(R.id.txt_input_email)
-        var message = view.findViewById<AppCompatEditText>(R.id.txt_input_message)
-        var phone = view.findViewById<AppCompatEditText>(R.id.txt_input_phone_number)
+         message = view.findViewById(R.id.txt_input_message)
+         phone = view.findViewById<AppCompatEditText>(R.id.txt_input_phone_number)
 
         view.findViewById<Button>(R.id.btn_report).setOnClickListener {
 
@@ -40,9 +44,13 @@ class PostDataFragment : Fragment() {
                 fullname.isEmpty() -> name.error = "Enter a Name"
                 Fmessage.isEmpty() -> email.error = "Enter a Message"
                 phoneNumber.isEmpty() -> phone.error = "Enter a Phone Number"
-                emailD.isEmpty() -> email.error = "Enter Email Address"
+               // emailD.isEmpty() -> email.error = "Enter Email Address"
 
-                else -> submitDataBarang(fullname, Fmessage, phoneNumber, emailD)
+                else -> {
+
+                    submitDataBarang(fullname, Fmessage, phoneNumber)
+                }
+
             }
 
         }
@@ -53,26 +61,37 @@ class PostDataFragment : Fragment() {
     private fun submitDataBarang(
         fullname: String,
         Fmessage: String,
-        phoneNumber: String,
-        emailD: String
-    ) {
+        phoneNumber: String) {
+        val pDialog = SweetAlertDialog(requireContext(), SweetAlertDialog.PROGRESS_TYPE)
+        pDialog.progressHelper.barColor = Color.parseColor("#A5DC86")
+        pDialog.titleText = "Please wait!..."
+        pDialog.setCancelable(false)
+        pDialog.show()
         mFirebaseInstance = FirebaseDatabase.getInstance();
         mDatabaseReference = mFirebaseInstance!!.getReference("smartPolicing");
 
-        val postData = PostData(fullname, Fmessage, phoneNumber, emailD)
+        val postData = PostData(fullname, Fmessage, phoneNumber)
         log("data posting " + postData)
         mDatabaseReference!!.child("community").push()
             .setValue(postData)
             .addOnSuccessListener(requireActivity()
             ) {
-                Toast.makeText(
-                    requireContext(),
-                    "S !",
-                    Toast.LENGTH_LONG
-                ).show()
+                pDialog.dismiss()
+                name.text!!.clear()
+                phone.text!!.clear()
+                message.text!!.clear()
+                SweetAlertDialog(requireContext(), SweetAlertDialog.SUCCESS_TYPE)
+                    .setTitleText("success")
+                    .setContentText("We received your Message, We are getting back to you")
+                    .show()
             }
             .addOnFailureListener {
+                pDialog.dismiss()
                 log("On FAILURE " + it.message)
+                SweetAlertDialog(requireContext(), SweetAlertDialog.ERROR_TYPE)
+                    .setTitleText("failure")
+                    .setContentText(it.message)
+                    .show()
             }
     }
 
@@ -104,7 +123,7 @@ class PostDataFragment : Fragment() {
         email: String,
         phoneNumber: String
     ) {
-        val user = PostData(name, message, email, phoneNumber)
+        val user = PostData(name, message, phoneNumber)
 
 //        database.child("from_community").child(userId).setValue(user)
     }

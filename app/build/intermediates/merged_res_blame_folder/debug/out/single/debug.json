@@ -1,206 +1,214 @@
 [
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_offence.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xhdpi/ic_offence.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_offence.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xxhdpi/ic_offence.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/toolbar.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_offence.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-hdpi/ic_offence.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_txt_area_dark_yellow.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable/txt_area_dark_yellow.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_shape_circle.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable/shape_circle.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_signup.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/fragment_signup.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_backfround_image.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xhdpi/backfround_image.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_post_data.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/fragment_post_data.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_post_data.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/fragment_post_data.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_offence.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xhdpi/ic_offence.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_bg_circle.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable/bg_circle.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_shape_circle.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable/shape_circle.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_police.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-hdpi/ic_police.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_offence.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xxhdpi/ic_offence.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_btn_purple_a400.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable/btn_purple_a400.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_offence.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-mdpi/ic_offence.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/content_main.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_offence.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-mdpi/ic_offence.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_post_comments.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/post_comments.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_police.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xhdpi/ic_police.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_comment.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xhdpi/ic_comment.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/navigation/nav_graph.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_logo.jpeg.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-mdpi/logo.jpeg"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_post_comments.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/post_comments.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_ic_people.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable/ic_people.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_comment.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-anydpi/ic_comment.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_comment.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-hdpi/ic_comment.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/menu/menu_main.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/fragment_login.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_backfround_image.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-mdpi/backfround_image.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_comment.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xxhdpi/ic_comment.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/fragment_login.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_report.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/fragment_report.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_comment.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-hdpi/ic_comment.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/menu/menu_main.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_offence.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-anydpi/ic_offence.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_backfround_image.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-mdpi/backfround_image.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_backfround_image.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xhdpi/backfround_image.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_txt_area_dark_yellow.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable/txt_area_dark_yellow.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_comment.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-mdpi/ic_comment.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_comment.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-mdpi/ic_comment.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_dashboard.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/fragment_dashboard.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_btn_purple_a400.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable/btn_purple_a400.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/navigation/nav_graph.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_ic_people.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable/ic_people.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_offence.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-hdpi/ic_offence.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_logo.jpeg.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-mdpi/logo.jpeg"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/toolbar.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_report_item.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/report_item.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_offence.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-anydpi/ic_offence.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_report.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/fragment_report.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_bg_list_row.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable/bg_list_row.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_police.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-mdpi/ic_police.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_backfround_image.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xxxhdpi/backfround_image.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_police.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-mdpi/ic_police.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_backfround_image.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xxhdpi/backfround_image.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_comment.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xhdpi/ic_comment.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_dashboard.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/fragment_dashboard.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/layout/content_main.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_report_item.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/report_item.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_comment.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xxhdpi/ic_comment.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_police.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-anydpi/ic_police.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_police.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xxhdpi/ic_police.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_comment.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-anydpi/ic_comment.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_backfround_image.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-hdpi/backfround_image.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/layout_fragment_signup.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/layout/fragment_signup.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_police.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-hdpi/ic_police.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_police.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xhdpi/ic_police.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_police.xml.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-anydpi/ic_police.xml"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_backfround_image.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/drawable-xxhdpi/backfround_image.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/kevinjanvier/Documents/projects/android/SmartPolicing/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_backfround_image.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xxxhdpi/backfround_image.png"
+    },
+    {
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-hdpi_backfround_image.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-hdpi/backfround_image.png"
+    },
+    {
+        "merged": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_police.png.flat",
+        "source": "/Users/tomusange/Documents/Projects/Android/SmartPolicing/app/src/main/res/drawable-xxhdpi/ic_police.png"
     }
 ]

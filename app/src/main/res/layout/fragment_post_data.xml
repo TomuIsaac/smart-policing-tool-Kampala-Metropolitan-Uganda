@@ -3,23 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/grey_90"
     android:orientation="vertical">
 
-    <com.google.android.material.appbar.AppBarLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+<!--    <com.google.android.material.appbar.AppBarLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content">-->
 
-        <androidx.appcompat.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="?attr/actionBarSize"
-            android:background="@color/colorAccent"
-            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-            app:contentInsetStartWithNavigation="0dp"
-            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+<!--        <androidx.appcompat.widget.Toolbar-->
+<!--            android:id="@+id/toolbar"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="?attr/actionBarSize"-->
+<!--            android:background="@color/colorAccent"-->
+<!--            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"-->
+<!--            app:contentInsetStartWithNavigation="0dp"-->
+<!--            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />-->
 
-    </com.google.android.material.appbar.AppBarLayout>
+<!--    </com.google.android.material.appbar.AppBarLayout>-->
 
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
@@ -35,31 +34,35 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <com.google.android.material.textfield.TextInputLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColorHint="@color/grey_40">
+
 
                 <androidx.appcompat.widget.AppCompatEditText
                     android:id="@+id/txt_input_name"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/name"
-                    android:textColor="@android:color/white"
                     android:theme="@style/EditText.Yellow" />
-
-            </com.google.android.material.textfield.TextInputLayout>
 
             <View
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/spacing_middle" />
 
-            <com.google.android.material.textfield.TextInputLayout
+
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/txt_input_phone_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Phone number"
+                    android:inputType="phone"
+                    android:textColor="@android:color/black"
+                    android:theme="@style/EditText.Yellow" />
+
+
+            <View
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@drawable/txt_area_dark_yellow"
-                android:padding="@dimen/spacing_large"
-                android:textColorHint="@color/grey_40">
+                android:layout_height="@dimen/spacing_middle" />
+
 
                 <androidx.appcompat.widget.AppCompatEditText
                     android:id="@+id/txt_input_message"
@@ -71,10 +74,8 @@
                     android:inputType="textMultiLine"
                     android:maxLines="12"
                     android:minLines="7"
-                    android:textColor="@android:color/white"
+                    android:textColor="@android:color/black"
                     android:theme="@style/EditText.Yellow" />
-
-            </com.google.android.material.textfield.TextInputLayout>
 
             <View
                 android:layout_width="match_parent"
@@ -83,27 +84,8 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColorHint="@color/grey_40">
-
-                <androidx.appcompat.widget.AppCompatEditText
-                    android:id="@+id/txt_input_phone_number"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:hint="Phone number"
-                    android:inputType="phone"
-                    android:textColor="@android:color/white"
-                    android:theme="@style/EditText.Yellow" />
-
-            </com.google.android.material.textfield.TextInputLayout>
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="@dimen/spacing_middle" />
-
-            <com.google.android.material.textfield.TextInputLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColorHint="@color/grey_40">
+                android:textColorHint="@color/grey_40"
+                android:visibility="gone">
 
                 <androidx.appcompat.widget.AppCompatEditText
                     android:id="@+id/txt_input_email"
@@ -111,7 +93,7 @@
                     android:layout_height="wrap_content"
                     android:hint="Email address"
                     android:inputType="textEmailAddress"
-                    android:textColor="@android:color/white"
+                    android:textColor="@android:color/black"
                     android:theme="@style/EditText.Yellow" />
 
             </com.google.android.material.textfield.TextInputLayout>
