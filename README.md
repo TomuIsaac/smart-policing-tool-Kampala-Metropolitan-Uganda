@@ -8,6 +8,15 @@ Smart policing tool is used for bridging the gap between police and the communit
 Community will be able to report criminals to the police using their mobile devices.
 Police will be able to give support to reported cases from the community.
 
+Available on Google Play Store.
+<p align="left">
+<a href="https://drive.google.com/file/d/1MIGvsi0hi7MVRICy1IrWJ88YcacByL4i/view?usp=sharing">
+    <img alt="Get it on Google Play"
+        height="70"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>
+        </p>
+
 ## Screenshots
 
 <img src="/../master/screenshots/01.png?raw=true" width="300px" alt="Screenshot 1" />
