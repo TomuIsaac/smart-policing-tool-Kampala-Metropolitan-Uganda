@@ -28,7 +28,7 @@ Available on Google Play Store.
 ## License
 
 ```
-Copyright (C) 2021 Tomusange Isaac, Kayondo John,Simon peter Junju
+Copyright (C) 2021 Tomusange Isaac
 
 Licensed under the group 1 lubaga campus, Version 0.1 (the "License");
 you may not use this file except in compliance with the License.
